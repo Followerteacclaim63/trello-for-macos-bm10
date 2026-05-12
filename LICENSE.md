@@ -1,4 +1,4 @@
-#  
+#  Trello for macOS vip Plugin: calendar integration & task automation offers the most advanced Trello for macOS plugin, with calendar integration and task automation. Ideal for
 
 
 
